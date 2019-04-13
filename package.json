@@ -1,6 +1,6 @@
 {
-  "name": "hexo-filter-mermaid-diagrams-v",
-  "version": "1.0.1",
+  "name": "hexo-filter-mermaid",
+  "version": "0.1.0",
   "description": "Generate mermaid diagrams for Hexo.",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,6 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/onewe/hexo-filter-mermaid-diagrams/issues"
+    "url": "https://github.com/TheBeachMaster/hexo-filter-mermaid/issues/new"
   }
 }
