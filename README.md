@@ -1,11 +1,3 @@
-# hexo-filter-mermaid-diagrams
-Generate mermaid diagrams for Hexo.
-
-
-
-# How to use
-
-1. `npm i hexo-filter-mermaid-diagrams-v`
 
 2. ```
    ​```mermaid
